@@ -1,18 +1,11 @@
-/*---General styles---*/
-html {
+body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: normal;
-    font-size: 16px;
-    background-color: black;
+    background-color: #000000;
     text-align: center;
 };
 
-h1 {
+.header--main {
+    font-weight: normal;
     font-size: 50px;
-    : white;
+    color: #ffffff
 };
-
-a {
-    color: aquamarine;
-    font-size: 1rem;
-}

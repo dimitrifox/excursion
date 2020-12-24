@@ -18,4 +18,10 @@ body {
 .subheader {
     font-weight: 300;
     font-size: 42px;
+    color: #ffffff;
+}
+
+.tagline {
+    color: #808080;
+    font-size: 21px;
 }
